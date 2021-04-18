@@ -73,3 +73,8 @@ header {
     font-size: 14px;
     padding: 0;
 }
+
+.menuitem {
+    height: 120px;
+
+}
